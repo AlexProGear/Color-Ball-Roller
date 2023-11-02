@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c074905f0a4dfcb487e9b82169ce1e, type: 3}
+  m_Name: Road Skin 3
+  m_EditorClassIdentifier: 
+  <material>k__BackingField: {fileID: 2100000, guid: fd33ceb0b9a058946bda7a208227820c, type: 2}
+  <textures>k__BackingField:
+  - {fileID: 2800000, guid: 8641a35140d607b4ca37c0ad431af1ab, type: 3}
+  - {fileID: 2800000, guid: 2e340151396e62844bebd1f7bb156445, type: 3}
+  - {fileID: 2800000, guid: c8a60be9d61d51b428f4ebc3cb1b7f2e, type: 3}
+  - {fileID: 2800000, guid: b540316bd192c43428931c5eb5356a72, type: 3}
+  colors: 02000000010000000000000003000000
+  <PurchasableID>k__BackingField: 9
+  <PurchasableType>k__BackingField: 2
+  <ShopItemIcon>k__BackingField: {fileID: 21300000, guid: 38cb3314410bb8042baa4d1a97961295, type: 3}
+  <ShopPrice>k__BackingField:
+    currencyCount: 500
+    useAchievementAsCurrency: 0
+    achievement: 0

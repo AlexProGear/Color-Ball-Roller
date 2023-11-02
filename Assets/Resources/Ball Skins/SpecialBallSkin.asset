@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f760bd32be346248ad824b1c44e1ecf, type: 3}
+  m_Name: SpecialBallSkin
+  m_EditorClassIdentifier: 
+  <material>k__BackingField: {fileID: 2100000, guid: fcdff8c6d31800d44801988af5fc29c5, type: 2}
+  <textures>k__BackingField:
+  - {fileID: 2800000, guid: 346ef92e691c43548b62ea157f6bb706, type: 3}
+  - {fileID: 2800000, guid: b7fb66d897560a24eb8fc55e6b38eaf0, type: 3}
+  - {fileID: 2800000, guid: 003c55664c0bbd44e8e1e9b00444a0d0, type: 3}
+  - {fileID: 2800000, guid: 240afc17817ea4149845f009caea980c, type: 3}
+  colors: 02000000010000000000000003000000
+  <PurchasableID>k__BackingField: -1
+  <PurchasableType>k__BackingField: 0
+  <ShopItemIcon>k__BackingField: {fileID: 0}

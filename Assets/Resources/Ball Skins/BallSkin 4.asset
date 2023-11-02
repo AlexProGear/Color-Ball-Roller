@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f760bd32be346248ad824b1c44e1ecf, type: 3}
+  m_Name: BallSkin 4
+  m_EditorClassIdentifier: 
+  <material>k__BackingField: {fileID: 2100000, guid: fcdff8c6d31800d44801988af5fc29c5, type: 2}
+  <textures>k__BackingField:
+  - {fileID: 2800000, guid: 4c6efe943263a7b4094936399f831d3a, type: 3}
+  - {fileID: 2800000, guid: eb418d3ef612fd74bbe656b87a0c2d4e, type: 3}
+  - {fileID: 2800000, guid: e301da35734891e4baa5a67170817399, type: 3}
+  colors: 020000000100000003000000
+  <PurchasableID>k__BackingField: 4
+  <PurchasableType>k__BackingField: 1
+  <ShopItemIcon>k__BackingField: {fileID: 21300000, guid: 6659c16af74c53a4d8c660505571c0e9, type: 3}
+  <ShopPrice>k__BackingField:
+    currencyCount: 5
+    useAchievementAsCurrency: 1
+    achievement: 5

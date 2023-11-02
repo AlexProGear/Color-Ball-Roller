@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1899695745315773817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3579482842749858656}
+  - component: {fileID: 5441364067139084822}
+  m_Layer: 0
+  m_Name: ObstacleGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3579482842749858656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899695745315773817}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5441364067139084822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1899695745315773817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 094e9656f02b4f9488ebb7db1b2f23f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startOffset: 0.09
+  middleBaseOffset: 0.04
+  middleExtraOffset: 0.025
+  endBaseOffset: 0.025
+  endExtraOffset: 0
+  a: 0.015
+  b: 2.718
+  c: 0.004
+  middleObstacles:
+  - prefab: {fileID: 7714664262675942440, guid: 504b125e1c589474b8b2fa5fa2346566, type: 3}
+    maxCount: -1
+    minObstaclesBetween: 0
+    priority: 0
+  - prefab: {fileID: 7714664262675942440, guid: 504b125e1c589474b8b2fa5fa2346566, type: 3}
+    maxCount: -1
+    minObstaclesBetween: 0
+    priority: 0
+  - prefab: {fileID: 7714664262675942440, guid: 7dd0cc96529024446833fedd2cca21e7, type: 3}
+    maxCount: -1
+    minObstaclesBetween: 0
+    priority: 0
+  - prefab: {fileID: 6458195114709703713, guid: ed467af1b1a02784d8f0ad4da7aa965c, type: 3}
+    maxCount: -1
+    minObstaclesBetween: 1
+    priority: 0
+  endObstacles:
+  - prefab: {fileID: 8058535387017184758, guid: ad39b301d18afcd418e5d18ce93fc18e, type: 3}
+    maxCount: 1
+    minObstaclesBetween: 0
+    priority: 1
+  - prefab: {fileID: 5138416568301208347, guid: 681d0836639f3864aa289eceda23833a, type: 3}
+    maxCount: 1
+    minObstaclesBetween: 0
+    priority: 2
+  - prefab: {fileID: 4062659505120128505, guid: 8e1d827c08d40fa4680f16397b1b715f, type: 3}
+    maxCount: 1
+    minObstaclesBetween: 0
+    priority: 3

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 342b9ae27a9c4838befdc97fd1d3d92f, type: 3}
+  m_Name: Tail Skin 4
+  m_EditorClassIdentifier: 
+  effectPrefab: {fileID: 3084233238442292400, guid: be56e2f983b206f4ca660c758e337afe, type: 3}
+  <PurchasableID>k__BackingField: 16
+  <PurchasableType>k__BackingField: 3
+  <ShopItemIcon>k__BackingField: {fileID: 21300000, guid: 377fe32cc88f1474dbd5645096af3cf6, type: 3}
+  <ShopPrice>k__BackingField:
+    currencyCount: 15
+    useAchievementAsCurrency: 1
+    achievement: 1

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65fcade6b42d470e96a0eee0afe067c0, type: 3}
+  m_Name: GameSoundsData
+  m_EditorClassIdentifier: 
+  pickupBall1:
+  - {fileID: 8300000, guid: 0ed8725c2c5cec0489e3e49c04a27223, type: 3}
+  - {fileID: 8300000, guid: 05deb304f797e3c4c802f76e31998f63, type: 3}
+  - {fileID: 8300000, guid: 8ef35f32055feb14693e86217ecd5ebd, type: 3}
+  - {fileID: 8300000, guid: 4cb618e34aef6564397d9fc712e64b71, type: 3}
+  - {fileID: 8300000, guid: 3f1af4325f1a3a940ac783935a203a36, type: 3}
+  - {fileID: 8300000, guid: 21fd3db3c715a984e8db262ea18e3dff, type: 3}
+  - {fileID: 8300000, guid: 95a03269d466eb24092836b37c952212, type: 3}
+  - {fileID: 8300000, guid: 08cdcc8b634d4034b8cdc24774a10b65, type: 3}
+  - {fileID: 8300000, guid: b1e6f10a0a9918a45a4b7ea72b47d0f2, type: 3}
+  - {fileID: 8300000, guid: a7e3e432ac88a55429b89807f96dd544, type: 3}
+  - {fileID: 8300000, guid: 1c5d996ddbbb3d4489a4441ebd38f00a, type: 3}
+  - {fileID: 8300000, guid: 45a48aaae2c726644942e906949ebfef, type: 3}
+  pickupBall2:
+  - {fileID: 8300000, guid: 196379f2b2e46dc40a39daa8c095ea9e, type: 3}
+  - {fileID: 8300000, guid: d686c176e9b0f9c46a31db57a41e991b, type: 3}
+  - {fileID: 8300000, guid: c62bc0d97b032cc4caa12998dda05c20, type: 3}
+  - {fileID: 8300000, guid: d915d38cf82a64f4c9b0ef32f98bfadd, type: 3}
+  - {fileID: 8300000, guid: 9283f6c8697121949a902d8adf635f11, type: 3}
+  - {fileID: 8300000, guid: 2a1bad0acb4a9914e8d8f5dbe5426b0d, type: 3}
+  - {fileID: 8300000, guid: 1083062753ccc9a4a8a9393c62dcbe10, type: 3}
+  - {fileID: 8300000, guid: 9e3e773a4454fa84095e8c59ad3d3a46, type: 3}
+  - {fileID: 8300000, guid: d7af7fa211ce54d42ac9584a74dab987, type: 3}
+  - {fileID: 8300000, guid: fa12a4a4a097de6419b8e9d8d6389656, type: 3}
+  - {fileID: 8300000, guid: 27839b0f68a09fd44941b77f432779e1, type: 3}
+  - {fileID: 8300000, guid: d8a2a509d8d9f774a95c4b1b3afea910, type: 3}
+  pickupBall3:
+  - {fileID: 8300000, guid: 020948d0b5f78c04c90015a322c09fd5, type: 3}
+  - {fileID: 8300000, guid: 35cc9c1d82b3a1d4c899643a3364883a, type: 3}
+  - {fileID: 8300000, guid: f1e2b2dc3c7162f47b69733a52417725, type: 3}
+  - {fileID: 8300000, guid: fdc7ecab1cbc7c2408a7e2fb462ca819, type: 3}
+  - {fileID: 8300000, guid: a77e71945033e2d418d7b6f0d99c889e, type: 3}
+  - {fileID: 8300000, guid: 8137eff844668f6488d46ea4030c9cd9, type: 3}
+  - {fileID: 8300000, guid: 1964f8be7e291714289b36b3006c63f3, type: 3}
+  - {fileID: 8300000, guid: ba5d0af4c4de80b4eb3b1e0b7781bfdc, type: 3}
+  - {fileID: 8300000, guid: 0ce52127578b12748b00b1f935b9fc70, type: 3}
+  - {fileID: 8300000, guid: 0a28833e94bae484c984f5902686197f, type: 3}
+  - {fileID: 8300000, guid: e4961e51f5d54524e8a1fe28ca185689, type: 3}
+  pickupBallSpecial:
+  - {fileID: 8300000, guid: a1e6d447b6ad19a4a867895ba617d6b1, type: 3}
+  - {fileID: 8300000, guid: 39b280ddd5da95f49962033a7ae87789, type: 3}
+  - {fileID: 8300000, guid: a9c38e245bff55f45b4ded2bcb2f3296, type: 3}
+  changeColor:
+  - {fileID: 8300000, guid: 41cf8e970e405434484072e253cbb81c, type: 3}
+  - {fileID: 8300000, guid: e8a06e492ebba0440baf538ad52a95cc, type: 3}
+  - {fileID: 8300000, guid: 0ee178898db59bd4495f4e270dc30fe0, type: 3}
+  death:
+  - {fileID: 8300000, guid: a0c07a6b0736bee4f9d9bb06baf13fca, type: 3}
+  newRoad:
+  - {fileID: 8300000, guid: 4edbb27d9380a314ebf0d52c2ed3d5bd, type: 3}
+  coin:
+  - {fileID: 8300000, guid: 6989e6a846bc9ea49b506b0b8bb8586c, type: 3}
